@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-网课小工具(重制版)
+网课小工具(重制版) qiweb 浏览器插件 20240311
 </h1>
 
 ![GitHub stars](https://img.shields.io/github/stars/chettoy/cxmooc-tools.svg)
